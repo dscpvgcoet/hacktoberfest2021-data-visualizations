@@ -12,25 +12,25 @@ You can add folder named as visualization-language (if not already present) and 
 ### Steps to contribute
 0. Star this repository.
 1. Click on the fork button on the top right corner of this page.
-2. Now go to http://github.com/{your_username}/hacktoberfest2021-algorithms where you can see your own fork of this repo.
+2. Now go to http://github.com/{your_username}/hacktoberfest2021-data-visualizations where you can see your own fork of this repo.
 3. Open the terminal and clone your fork using
   ```
-  git clone http://github.com/{your_username}/hacktoberfest2021-algorithms
+  git clone http://github.com/{your_username}/hacktoberfest2021-data-visualizations
   ```
 4. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git remote add upstream https://github.com/dscpvgcoet/hacktoberfest2021-algorithms.git
+    git remote add upstream https://github.com/dscpvgcoet/hacktoberfest2021-data-visualizations.git
     git pull upstream main
     ```
 
     If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
 
-5. Now go inside the directory "hacktoberfest2021-algorithms" and checkout to a new branch with name of your choice
+5. Now go inside the directory "hacktoberfest2021-data-visualizations" and checkout to a new branch with name of your choice
   ```
   git checkout -b {branch_name}
   ```
-6. Start adding/modifying your algorithms.
+6. Start adding/modifying your code.
 7. Add the files you want to commit to the staging area.
   ```
   git add {folder_name/file_name}
@@ -43,7 +43,7 @@ You can add folder named as visualization-language (if not already present) and 
   ```
   git push origin {branch_name}
   ```
-10. Go to http://github.com/{your_username}/hacktoberfest2021-algorithms , on the left there is a button to change your branch. Click on it and select {branch_name}.
+10. Go to http://github.com/{your_username}/hacktoberfest2021-data-visualizations , on the left there is a button to change your branch. Click on it and select {branch_name}.
 11. Now you will be able see a button named "Pull request". Click on it.
 12. Add appropriate message and click the "Create Pull Request" button.
 

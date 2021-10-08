@@ -8,6 +8,7 @@ You can add folder named as visualization-language (if not already present) and 
 ### Make sure
 1. Visualization(s) that you want to contribute are unique against already existing ones, in terms of visualization, language and the package used.
 2. Data referred in the contribution doesn't create issue for anyone.
+3. Add snapshot of the visualization.
 
 ### Steps to contribute
 0. Star this repository.
